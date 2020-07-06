@@ -1,10 +1,16 @@
 # Trabajo investigación sobre computación en la nube
-# Autores:
-Miguel Mesén Molina
-Gabriel Solano Coronado
-Luis Andrey Zuñiga Hernandez
 
-# Definición e historia de Cloud Computing:
+**Profesor: Isaac Ramírez Herrera**
+
+**Autores:**
+
+**Miguel Mesén Molina / 2019227371**
+
+**Gabriel Solano Coronado / 2019033687**
+
+**Luis Andrey Zuñiga Hernández / 2019065476**
+
+## Definición e historia de Cloud Computing:
 Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
 2)	Conceptos básicos:
 
