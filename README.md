@@ -4,7 +4,7 @@ Miguel Mesén Molina
 Gabriel Solano Coronado
 Luis Andrey Zuñiga Hernandez
 
-1)	Definición e historia de Cloud Computing:
+# Definición e historia de Cloud Computing:
 Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
 2)	Conceptos básicos:
 
