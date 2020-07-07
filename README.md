@@ -39,7 +39,7 @@ A diferencia de las nubes privadas, las nubes públicas pueden ahorrar a las com
 Los servicios informáticos que se ofrecen a través de Internet o de una red interna privada solo a algunos usuarios y no al público general. También denominada nube interna o corporativa, la informática en nube privada aporta a las empresas gran parte de las ventajas de la nube pública (como autoservicio, escalabilidad y elasticidad), pero con el control y la personalización disponibles en los recursos dedicados a través de una infraestructura informática hospedada en el entorno local. Además, las nubes privadas ofrecen un nivel más alto de seguridad y privacidad con firewalls de la compañía y hospedaje interno, con el fin de garantizar que las operaciones y los datos confidenciales no estén accesibles para proveedores externos. Un inconveniente es que el departamento de TI de la compañía es responsable de la administración de la nube privada y el costo que conlleva. Por tanto, las nubes privadas requieren el mismo gasto de personal, administración y mantenimiento que los centros de datos tradicionales en propiedad.
 En una nube privada, se pueden ofrecer dos modelos de servicios en la nube. El primero es infraestructura como servicio (IaaS), que permite a una compañía utilizar recursos de infraestructura, como proceso, red y almacenamiento, como servicio. El segundo es plataforma como servicio (PaaS), que permite a una compañía ofrecer todo, desde sencillas aplicaciones basadas en la nube hasta sofisticadas aplicaciones empresariales. Las nubes privadas se pueden combinar también con nubes públicas para crear una nube híbrida, que permite a las empresas aprovechar la extensión a la nube para liberar más espacio y escalar servicios informáticos en la nube pública cuando aumenta la demanda de recursos informáticos.
 
-**Caraceristicas**
+**Caracerísticas**
 *	Uso exclusivo de una organización y/o múltiples usuarios.
 *	Gestión del cloud por la propia organización.
 *	Puede delegarse la gestión y operación a una compañía especializada.
@@ -57,7 +57,9 @@ Es en este punto donde irrumpe la nube híbrida, un concepto que sin ser nuevo s
 Así, cada vez son más las empresas que descubren las virtudes de una composición híbrida, en la que parte de la carga se mantiene on premise y el resto se traslada a servicios de nube pública, aprovechando así las ventajas que ofrecen estos en múltiples aspectos. Un escenario común es aquel donde el centro de datos y la parte más crítica de nuestros procesos se mantiene protegido y controlado, mientras resolvemos el resto de nuestras necesidades con soluciones en la nube pública. En este artículo abordamos el concepto de nube híbrida y explicamos por qué es un concepto cada vez más relevante en el mundo empresarial.
 
 **¿Qué ventajas tiene?**
+
 La frase «lo mejor de los dos mundos» suele acompañar a cualquier material relacionado con la nube híbrida, dado que proponen la combinación de las ventajas de la nube pública y privada en una solución única. Sus ventajas más relevantes derivan de su naturaleza mixta:
+
 * Mayor control, dado que la organización puede mantener cargas de trabajo críticas bajo infraestructura privada.
 *	Flexibilidad, tanto por la naturaleza escalable de la nube híbrida como por los recursos que puede aportar el cloud público.
 *	Optimización de costes, solo se paga por los recursos que se utilizan y cuando son necesarios.
