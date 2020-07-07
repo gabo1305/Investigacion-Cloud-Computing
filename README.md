@@ -104,6 +104,13 @@ Plataforma como servicio (PaaS) es una oferta de cloud computing que proporciona
 
 # Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers.
 
-Tomaremos Microsoft, Ibm, Amazon
+**Microsoft**
+Está en el puesto número uno . Ofrece servicios en las tres capas de la nube (IaaS, PaaS y SaaS), es sin duda la oferta más completa y más estándar. Está comprometido en ayudar en el desarrollo y la implementación de sus clientes en entornos de producción innovadores. Sus ingresos en los últimos 12 meses se estiman alrededor de 16,7 mil millones de dólares. 
+
+**Amazon** 
+Amazon Web Services se encuentra en el segundo puesto. Esto gracias a la profundidad y amplitud de productos y servicios que ofrece. Además, de la experiencia de usuario sencilla y elegante combinada con unos precios muy competitivos. por las carencias respecto a Microsoft en aspectos de software y por los 16 mil millones en ingresos de los últimos 12 meses.
+
+**IBM**
+Se encuentra en el tercer puesto. Gracias a la transformación de su amplia gama de experiencia y tecnología de software desde el entorno real hasta la nube. Igual que Microsoft, IBM es uno de los proveedores de Cloud Computing que ofrece los tres servicios: IaaS, PaaS y SaaS. Esto es muy importante porque ofrece a los clientes más opciones, una integración más fluida y una mejor seguridad cibernética. IBM ha creado un negocio en la nube de 15.800 millones de dólares
 
 
