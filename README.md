@@ -22,7 +22,19 @@ Conocida también como “servicios en la nube” El cloud computing consiste en
 * Fuerte inversión en innovación.
 * Acceso a toda la información.
 * Acceso cuando quieras y donde quieras, sólo con una conexión a Internet.
-#Conceptos básicos:
+
+# Conceptos básicos:
+**Escalabilidad y elasticidad:** tus recursos computacionales no estarán limitados a una capacidad estática. Con esta funcionalidad de las plataformas en la nube tus sistemas se adaptarán a la carga a la que están siendo sometidos, por lo que no se agotará el almacenamiento o la capacidad de computación de tu aplicación.
+
+**Independencia entre el dispositivo y la ubicación:** ya no son necesarios los equipos ni las tediosas salas de data centers. La computación en la nube se caracteriza por la puesta a disposición de consolas de administración y múltiples ambientes de trabajo que pueden ser accedidas a través de un dispositivo móvil, tu editor de código favorito o en tu computador, independientemente del lugar en el que te encuentres ubicado.
+
+**Seguridad:** en la computación en la nube, la seguridad es igual de buena e incluso puede superar a los sistemas tradicionales. Esto se debe, en parte, a que los proveedores son capaces de dedicar recursos a la solución de los problemas de seguridad que muchos clientes no pueden permitirse el lujo de abordar. El usuario de la nube es responsable de la seguridad a nivel de aplicación. El proveedor de la nube es responsable de la seguridad física.
+
+**Costo:** los costos se reducen notablemente. Un servidor en la nube convierte los gastos de capital en gastos de funcionamiento, lo cual tiene como resultado la reducción de barreras de entrada, ya que la infraestructura se proporciona típicamente por una tercera parte y no tiene que ser adquirida por una sola vez o tareas informáticas intensivas infrecuentes.
+
+**Rendimiento:** el rendimiento es una pieza clave en este modelo tecnológico, ya que todos los recursos están dispuestos para la optimización del resultado final. Se crean múltiples integraciones para que el usuario esté en capacidad de hacer un seguimiento permanente e implementar correcciones que permitan obtener aún más capacidad de los mismos recursos.
+
+**Mantenimiento**: en el caso de las aplicaciones de computación en la nube, este proceso se reduce a la asignación de personal capacitado para manejar servicios de seguimiento. La plataforma se encargará de lo demás, ya que el mantenimiento a los sistemas se puede configurar para que se dé automáticamente. Esto reduce tiempos de implementación que resulta en que se pueda centrar la atención en la producción del software.
 
 # Nube pública
 La nube pública se define como servicios informáticos que ofrecen proveedores externos a través de la Internet pública y que están disponibles para todo aquel que desee utilizarlos o comprarlos. Pueden ser gratuitos o venderse a petición, lo que permite a los clientes pagar solo por el uso que hacen de ciclos de CPU, el almacenamiento o el ancho de banda que consumen.
