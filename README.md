@@ -13,7 +13,7 @@
 # Definición e historia de Cloud Computing
 Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
 
-Ventajas
+**Ventajas**
 * Bajo coste.Productos gratuitos o pagos mensuales fijos por utilización, sin costes adicionales, dado que no hay que invertir en gran infraestructura, ni en licencias.
 * Seguridad. Los datos siempre están seguros (lee la política de seguridad de Debitoor).
 * No hay necesidad de poseer una gran capacidad de almacenamiento.
