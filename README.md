@@ -27,7 +27,8 @@ Ventajas
 # Nube pública
 La nube pública se define como servicios informáticos que ofrecen proveedores externos a través de la Internet pública y que están disponibles para todo aquel que desee utilizarlos o comprarlos. Pueden ser gratuitos o venderse a petición, lo que permite a los clientes pagar solo por el uso que hacen de ciclos de CPU, el almacenamiento o el ancho de banda que consumen.
 A diferencia de las nubes privadas, las nubes públicas pueden ahorrar a las compañías los enormes gastos que supone tener que comprar, administrar y mantener hardware e infraestructura de aplicaciones locales: el proveedor del servicio en la nube es el responsable de todo el trabajo de administración y mantenimiento del sistema. Las nubes públicas también se pueden implementar con más rapidez que las infraestructuras locales y con una plataforma que permite una escalabilidad casi ilimitada. Todos los empleados de una compañía pueden usar la misma aplicación desde cualquier oficina o sucursal con el dispositivo que prefieran, siempre y cuando tenga acceso a Internet. Aunque ha surgido cierta preocupación en cuanto a la seguridad de los entornos de nube pública, cuando se implementa correctamente, la nube pública puede ser tan segura como la implementación de nube privada con la administración más eficaz, si el proveedor utiliza métodos de seguridad adecuados, como sistemas de detección de intrusiones y prevención (IDPS).
-Características:
+
+**Características:**
 * Servicio abierto al público ofrecido por un proveedor
 * Recursos hardware propiedad del proveedor.
 *	Gestión del cloud por parte del proveedor.
@@ -37,6 +38,7 @@ Características:
 # Nube privada
 Los servicios informáticos que se ofrecen a través de Internet o de una red interna privada solo a algunos usuarios y no al público general. También denominada nube interna o corporativa, la informática en nube privada aporta a las empresas gran parte de las ventajas de la nube pública (como autoservicio, escalabilidad y elasticidad), pero con el control y la personalización disponibles en los recursos dedicados a través de una infraestructura informática hospedada en el entorno local. Además, las nubes privadas ofrecen un nivel más alto de seguridad y privacidad con firewalls de la compañía y hospedaje interno, con el fin de garantizar que las operaciones y los datos confidenciales no estén accesibles para proveedores externos. Un inconveniente es que el departamento de TI de la compañía es responsable de la administración de la nube privada y el costo que conlleva. Por tanto, las nubes privadas requieren el mismo gasto de personal, administración y mantenimiento que los centros de datos tradicionales en propiedad.
 En una nube privada, se pueden ofrecer dos modelos de servicios en la nube. El primero es infraestructura como servicio (IaaS), que permite a una compañía utilizar recursos de infraestructura, como proceso, red y almacenamiento, como servicio. El segundo es plataforma como servicio (PaaS), que permite a una compañía ofrecer todo, desde sencillas aplicaciones basadas en la nube hasta sofisticadas aplicaciones empresariales. Las nubes privadas se pueden combinar también con nubes públicas para crear una nube híbrida, que permite a las empresas aprovechar la extensión a la nube para liberar más espacio y escalar servicios informáticos en la nube pública cuando aumenta la demanda de recursos informáticos.
+
 **Caraceristicas**
 *	Uso exclusivo de una organización y/o múltiples usuarios.
 *	Gestión del cloud por la propia organización.
@@ -63,6 +65,7 @@ La frase «lo mejor de los dos mundos» suele acompañar a cualquier material re
 
 # IaaS
 Infraestructura como servicio (IaaS) es una oferta de cloud computing en la que un proveedor proporciona a los usuarios acceso a recursos de cálculo como servidores, almacenamiento y redes. Las empresas utilizan sus propias plataformas y aplicaciones en una infraestructura de proveedor de servicios.
+
 **Funciones principales**
 *	En lugar de adquirir hardware directamente, los usuarios pagan por IaaS on demand.
 *	La infraestructura es escalable, en función de las necesidades de almacenamiento y procesamiento.
@@ -74,6 +77,7 @@ Infraestructura como servicio (IaaS) es una oferta de cloud computing en la que 
 
 # saaS
 Software como servicio (SaaS) es una oferta de cloud computing que proporciona a los usuarios acceso al software basado en cloud de un proveedor. Los usuarios no instalan aplicaciones en sus dispositivos locales, sino que las aplicaciones residen en una red cloud remota a la que se accede a través de la web o una API. Mediante la aplicación, los usuarios pueden almacenar y analizar datos, además de colaborar en proyectos.
+
 **Funciones principales**
 *	Los proveedores de SaaS proporcionan a los usuarios el software y las aplicaciones mediante un modelo de suscripción.
 *	Los usuarios no tienen que gestionar, instalar ni actualizar el software; los proveedores de SaaS lo gestionan.
@@ -86,7 +90,8 @@ Software como servicio (SaaS) es una oferta de cloud computing que proporciona a
 
 # Paas
 Plataforma como servicio (PaaS) es una oferta de cloud computing que proporciona a los usuarios un entorno de cloud en el que pueden desarrollar, gestionar y distribuir aplicaciones. Además del almacenamiento y otros recursos informáticos, los usuarios pueden utilizar un conjunto de herramientas prediseñadas para desarrollar, personalizar y probar sus propias aplicaciones.
-Funciones principales
+
+**Funciones principales**
 *	PaaS proporciona una plataforma con herramientas para probar, desarrollar y alojar aplicaciones en el mismo entorno.
 *	Permite a las organizaciones centrarse en el desarrollo, sin tener que preocuparse por la infraestructura subyacente.
 *	Los proveedores gestionan la seguridad, los sistemas operativos, el software de servidor y las copias de seguridad.
