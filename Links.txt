@@ -1,2 +1,3 @@
 https://investigaciondatos1.nn.r.appspot.com/   (in GCP/ python)
-(in IBM/python)
+https://appinvestigaciond1.mybluemix.net/(in IBM/PHP)
+https://firstappd1.azurewebsites.net/ (in Azure/python)
