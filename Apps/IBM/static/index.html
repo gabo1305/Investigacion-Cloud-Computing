@@ -28,8 +28,8 @@
             $.i18n().load( {
                 en: {
                     "welcome": "Bienvenido",
-                    "name": "numero",
-                    "what_is_your_name": "What is your name?",
+                    "name": "Numero",
+                    "what_is_your_name": "Ingrese el número al que desea calcular el factorial",
                     "hello": "Factorial es $1",
                     "added_to_database": "Hello $1, I've added you to the database!",
                     "database_contents": "Database contents: "
@@ -98,11 +98,16 @@
               });
           }
           function factorial (n) {
-            var total = 1;
-            for (i=1; i<=n; i++) {
-                total = total * i;
+            if (isNaN(n)==true){
+                return "error digíte un número"
+
+            }else{
+                var total = 1;
+                for (i=1; i<=n; i++) {
+                    total = total * i;
+                }
+                return String(total);
             }
-            return String(total);
         }
 
           //Call getNames on page load.
