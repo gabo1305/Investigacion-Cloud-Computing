@@ -52,7 +52,7 @@ def root():
 @app.route('/api/visitors', methods=['GET'])
 def get_visitor():
     if client:
-        return jsonify(list(map(lambda doc: doc['name'], "db")))
+        return jsonify(list(map(lambda doc: doc['name'], db)))
     else:
         print('No database')
         return jsonify([])
@@ -63,7 +63,7 @@ def put_visitor():
     user = request.json['name']
     data = {'name':user}
     if client:
-        my_document = db.create_document(data)
+        my_document = db.create_document("data")
         data['_id'] = my_document['_id']
         return jsonify(data)
     else:
