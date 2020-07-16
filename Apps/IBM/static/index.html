@@ -27,21 +27,13 @@
         $( document ).ready(function() {
             $.i18n().load( {
                 en: {
-                    "welcome": "Welcome.",
+                    "welcome": "Bienvenido.",
                     "name": "name",
-                    "what_is_your_name": "What is your name?",
+                    "what_is_your_name": "_¿Cuál es tu nombre?",
                     "hello": "Hello $1",
                     "added_to_database": "Hello $1, I've added you to the database!",
                     "database_contents": "Database contents: "
                 },
-                ja: {
-                    "welcome": "ようこそ。",
-                    "name": "名前",
-                    "what_is_your_name": "お名前を教えてください。",
-                    "hello": "こんにちは $1",
-                    "added_to_database": "こんにちは $1 さん、あなたをデータベースに追加しました。",
-                    "database_contents": "データベースの内容: "
-                }
             } );
             $('body').i18n();
             $('#user_name').attr("placeholder", $.i18n('name') );
