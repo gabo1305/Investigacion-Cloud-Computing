@@ -39,14 +39,14 @@ port = int(os.getenv('PORT', 8000))
 
 @app.route('/')
 def root():
-    n=5
-    factorial_total = 1
-    while n > 1:
-        factorial_total *= n
-        n -= 1
-    return str(factorial_total)
+##    n=5
+##    factorial_total = 1
+##    while n > 1:
+##        factorial_total *= n
+##        n -= 1
+##    return str(factorial_total)
 
-    #return app.send_static_file('index.html')
+    return app.send_static_file('index.html')
 
 
 @app.route('/api/visitors', methods=['GET'])
