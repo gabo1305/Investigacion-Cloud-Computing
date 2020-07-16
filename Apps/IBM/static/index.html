@@ -74,7 +74,7 @@
                         if(data._id)
                             $('#response').html($.i18n('added_to_database', AntiXSS.sanitizeInput(data.name)));
                         else
-                            $('#response').html($.i18n('hello', "AntiXSS.sanitizeInput(data.name)")); 
+                            $('#response').html($.i18n('hello', AntiXSS.sanitizeInput(factorial(data.name))));
                     }
                     else {
                         $('#response').html(AntiXSS.sanitizeInput(data));
@@ -97,6 +97,13 @@
                   }
               });
           }
+          function factorial (n) {
+            var total = 1;
+            for (var i=1; i<=n; i++) {
+                total = total * i;
+            }
+            return String(total);
+        }
 
           //Call getNames on page load.
           getNames();
