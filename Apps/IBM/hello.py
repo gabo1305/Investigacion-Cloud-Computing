@@ -39,7 +39,14 @@ port = int(os.getenv('PORT', 8000))
 
 @app.route('/')
 def root():
-    return app.send_static_file('index.html')
+    n=5
+    factorial_total = 1
+    while n > 1:
+        factorial_total *= n
+        n -= 1
+    return factorial_total
+
+    #return app.send_static_file('index.html')
 
 
 @app.route('/api/visitors', methods=['GET'])
@@ -63,7 +70,8 @@ def put_visitor():
         print('No database')
         return jsonify(data)
 @app.route('/')
-def factorial(n):
+def factorial():
+    n=5
     factorial_total = 1
     while n > 1:
         factorial_total *= n
