@@ -53,7 +53,7 @@ def get_visitor():
 
 @app.route('/api/visitors', methods=['POST'])
 def put_visitor():
-    user = request.json['names']
+    user = request.json['name']
     data = {'name':user}
     if client:
         my_document = db.create_document(data)
