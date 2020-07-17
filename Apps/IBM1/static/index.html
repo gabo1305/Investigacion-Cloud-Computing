@@ -23,7 +23,7 @@
         $( document ).ready(function() {
             $.i18n().load( {
                 en: {
-                    "welcome": "Bienvenidoss",
+                    "welcome": "Bienvenidos",
                     "name": "Numero",
                     "what_is_your_name": "Ingrese el número al que desea calcular el factorial",
                     "hello": "Factorial  $1",
@@ -61,7 +61,7 @@
 				}).done(function(data) {
                     if(data && data.name){
                         $('#response').html($.i18n('hello', AntiXSS.sanitizeInput(factorial(data.name))));
-                        
+
                     }
                 });
             }

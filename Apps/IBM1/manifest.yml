@@ -1,5 +1,5 @@
 ---
 applications:
- - name: FactD1
+ - name: AppInvestigacionD1
    random-route: true
    memory: 128M
