@@ -5,3 +5,5 @@ Apps calcula factorial
 
 http://appinvestigaciond1.mybluemix.net/  (Creado en python, proveedor:Bluemix(IBM)) Nombre en proveedor: appinvestigaciond1
 https://simpleappinvestigacion.nn.r.appspot.com/ (creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion
+
+Link del GithubPages// https://gabo1305.github.io/Investigacion-Cloud-Computing/
