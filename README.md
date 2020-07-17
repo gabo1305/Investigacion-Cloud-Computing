@@ -128,11 +128,16 @@ Se encuentra en el tercer puesto. Gracias a la transformación de su amplia gama
 ## Links de apps creadas
 
 Hola mundo
-https://firstappd1.azurewebsites.net/ (Creado en python, proveedor : Azure) Nombre en el proveedor: dirstappd1(Se intenta implementar pero lanza un error de acceso)
+
+https://firstappd1.azurewebsites.net/
+(Creado en python, proveedor : Azure) Nombre en el proveedor: dirstappd1(Se intenta implementar pero lanza un error de acceso)
 
 Apps calcula factorial
 
-http://appinvestigaciond1.mybluemix.net/  (Creado en python, proveedor:Bluemix(IBM)) Nombre en proveedor: appinvestigaciond1
-https://simpleappinvestigacion.nn.r.appspot.com/ (creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion
+http://appinvestigaciond1.mybluemix.net/  
+(Creado en python, proveedor:Bluemix(IBM)) Nombre en proveedor: appinvestigaciond1
+
+https://simpleappinvestigacion.nn.r.appspot.com/ 
+(creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion
 
 Link del GithubPages// https://gabo1305.github.io/Investigacion-Cloud-Computing/
