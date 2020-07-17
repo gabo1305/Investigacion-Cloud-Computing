@@ -114,7 +114,7 @@ Plataforma como servicio (PaaS) es una oferta de cloud computing que proporciona
 *	La economía de APIs es el nuevo paradigma en desarrollo, y el cloud proporciona la plataforma perfecta para su implementación.
 
 
-# Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers.
+## Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers.
 
 **Microsoft**
 Está en el puesto número uno . Ofrece servicios en las tres capas de la nube (IaaS, PaaS y SaaS), es sin duda la oferta más completa y más estándar. Está comprometido en ayudar en el desarrollo y la implementación de sus clientes en entornos de producción innovadores. Sus ingresos en los últimos 12 meses se estiman alrededor de 16,7 mil millones de dólares. 
