@@ -125,4 +125,14 @@ Amazon Web Services se encuentra en el segundo puesto. Esto gracias a la profund
 **IBM**
 Se encuentra en el tercer puesto. Gracias a la transformación de su amplia gama de experiencia y tecnología de software desde el entorno real hasta la nube. Igual que Microsoft, IBM es uno de los proveedores de Cloud Computing que ofrece los tres servicios: IaaS, PaaS y SaaS. Esto es muy importante porque ofrece a los clientes más opciones, una integración más fluida y una mejor seguridad cibernética. IBM ha creado un negocio en la nube de 15.800 millones de dólares
 
+## Links de apps creadas
 
+Hola mundo
+https://firstappd1.azurewebsites.net/ (Creado en python, proveedor : Azure) Nombre en el proveedor: dirstappd1(Se intenta implementar pero lanza un error de acceso)
+
+Apps calcula factorial
+
+http://appinvestigaciond1.mybluemix.net/  (Creado en python, proveedor:Bluemix(IBM)) Nombre en proveedor: appinvestigaciond1
+https://simpleappinvestigacion.nn.r.appspot.com/ (creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion
+
+Link del GithubPages// https://gabo1305.github.io/Investigacion-Cloud-Computing/
