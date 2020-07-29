@@ -149,7 +149,7 @@ Se encuentra en el tercer puesto. Gracias a la transformación de su amplia gama
 # Análisis de resultados
 De forma resumida, se describirán los aspectos abordados a lo largo de la investigación realizada, los resultados obtenidos y su análisis.
 
-Cloud computing es un tema del que ya se está hablando en el mundo de la tecnología, algunas empresas ya dieron el primer salto de empezar a utilizar esta rama de la nube que facilita y moderniza muchos procesos que por años se seguía utilizando el mismo, como tener la propia base datos y servidores bajo la misma infraestructura donde esta era requerida y estar a cargo de su mantenimiento y funcionalidad. 
+Cloud computing es un tema del que ya se está hablando en el mundo de la tecnología, algunas empresas ya dieron el primer salto de empezar a utilizar esta rama de la nube que facilita y moderniza muchos procesos que por años se seguía utilizando el mismo, como tener la propia base datos o servidores bajo la misma infraestructura donde esta era requerida. Esta implica estar a cargo de su mantenimiento y funcionalidad en todo momento. 
 Es un cambio que sin lugar a duda llama la atención a primera vista de grandes y pequeñas entidades, pero crea una incertidumbre y desconfianza al pensar en confiar datos internos a un desconocido. 
 
 Uno de los mayores beneficios que trae el cloud computing es el hecho de no tener que invertir en hardware para almacenamiento, ya que estos son costosos y de alto mantenimiento. Queda mucho más factible pagar una mensualidad de nube donde la información igual estará segura y no se necesitará tener personal pendiente del estado de la base de datos o servidor.
