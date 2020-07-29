@@ -25,14 +25,14 @@ Pese a que se puede encontrar información sobre la computación en la nube, no 
  
 # Marco teórico 
  
-# Historia de Cloud Computing
+## Historia de Cloud Computing
 Los comienzos de la computación en la nube (o computación en la nube) nos llevan a los nombres de Herb Grosh, J.C.R Licklider y John McCarthy, quienes fueron los primeros en manejar estos conceptos .
 
 Pero primer gran aporte referido al concepto de computación en la nube lo hizo Herb Grosh, quien afirmó allá por la década de 1950 que las economías se podrían adaptar mejor si confiaban en el almacenamiento de datos centralizado, y no en equipos individuales con almacenamiento de unidades.
 
 John McCarthy más tarde fue el primero en introducir el concepto de inteligencia artificial, donde mencionó la idea del tiempo compartido, que desde 1960 y  hasta la década de 1970 fue utilizado en oficinas de muchos lugares de Estados Unidos al ofrecer servicios de computo y transferencia por horas. Muy parecido a lo que hoy en día hacen casi todos los proveedores como Amazon AWS o Google Cloud.
 
-# Definición de Cloud Computing
+## Definición de Cloud Computing
 Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
 
 **Ventajas**
