@@ -23,7 +23,7 @@ Existen muchas personas que están interesadas en la programación en la nube, p
 Un sitio en el que puedan ingresar para entender algunos conceptos básicos y a demás orientarse sobre que preevedores se recomienda utilizar para un desarrollador principiante ya que se estarán comparando algunos de ellos.
 Pese a que se puede encontrar información sobre la computación en la nube, no existe como tal una comparación entre proveedores, y este apartado es sumamente relevante ya que el desarrollador debe elegir la opción que más se adapte a sus necesadidades, en el presente trabajo encontrará 
  
-## Marco teórico 
+# Marco teórico 
  
 # Historia de Cloud Computing
 Los comienzos de la computación en la nube (o computación en la nube) nos llevan a los nombres de Herb Grosh, J.C.R Licklider y John McCarthy, quienes fueron los primeros en manejar estos conceptos .
