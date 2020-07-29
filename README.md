@@ -145,7 +145,13 @@ Amazon Web Services se encuentra en el segundo puesto. Esto gracias a la profund
 
 **IBM**
 Se encuentra en el tercer puesto. Gracias a la transformación de su amplia gama de experiencia y tecnología de software desde el entorno real hasta la nube. Igual que Microsoft, IBM es uno de los proveedores de Cloud Computing que ofrece los tres servicios: IaaS, PaaS y SaaS. Esto es muy importante porque ofrece a los clientes más opciones, una integración más fluida y una mejor seguridad cibernética. IBM ha creado un negocio en la nube de 15.800 millones de dólares
+
 # Análisis de resultados
+De forma resumida, se describirán los aspectos abordados a lo largo de la investigación realizada, los resultados obtenidos y su análisis.
+Cloud computing es un tema del que ya se está hablando en el mundo de la tecnología, algunas empresas ya dieron el primer salto de empezar a utilizar esta rama de la nube que facilita y moderniza muchos procesos que por años se seguía utilizando el mismo, como tener la propia base datos y servidores bajo la misma infraestructura donde esta era requerida. 
+Es un cambio que sin lugar a duda llama la atención a primera vista de grandes y pequeñas entidades, pero crea una incertidumbre y desconfianza al pensar en confiar datos internos a un desconocido. 
+Uno de los mayores beneficios que trae el cloud computing es el hecho de no tener que dar mantenimiento a hardware y la velocidad para accessar información por todo encontrarse en la web.
+
 
 FALTA
 
