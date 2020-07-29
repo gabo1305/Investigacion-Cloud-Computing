@@ -1,8 +1,8 @@
-# Trabajo investigación sobre computación en la nube
+
 
 **Profesor: Isaac Ramírez Herrera**
 
-**Autores:**
+**Desarrollado por:**
 
 **Miguel Mesén Molina / 2019227371**
 
@@ -10,7 +10,21 @@
 
 **Luis Andrey Zuñiga Hernández / 2019065476**
 
-# Definición e historia de Cloud Computing
+# Computación en la nube, para conocimientos básicos.
+
+# Problema
+¿Tiene la población estudiantil del Instituto Tecnológico de Costa Rica conocimientos básicos sobre la computación en la nube?
+
+# Introducción
+Con los recientes avances en programación y tecnología de información, se han mostrado nuevas aplicaciones para la Internet, en este caso la computación en la nube , en la cual los recursos informáticos son ofrecidos y consumidos como servicios a través de Internet sin que los usuarios tengan conocimiento de la infraestructura que hay detrás. Siguiendo esta idea, La computación en la nube resulta conveniente y rentable tanto para usuarios como para los proveedores, ya que el poder trabajar con esta nueva tecnología, permite ahorros tanto en licencias como en administración de servicios y de equipos.
+
+El presente trabajo de investigación explorará metodologías de desarrollo en la nube, además se analizará por medio de la implementación de un programa en 3 servidores distinos y se harán las comparaciones sobre cuál herramienta es "mejor" para utilizar como un desarrollador con conocimientos básicos en el ámbito, se verán apartados como simplicidad,costos e información sobre el proveedor.
+
+
+
+# Descripción del problema
+# Definición de Cloud Computing
+# historia de Cloud Computing
 Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
 
 **Ventajas**
@@ -123,7 +137,10 @@ Amazon Web Services se encuentra en el segundo puesto. Esto gracias a la profund
 
 **IBM**
 Se encuentra en el tercer puesto. Gracias a la transformación de su amplia gama de experiencia y tecnología de software desde el entorno real hasta la nube. Igual que Microsoft, IBM es uno de los proveedores de Cloud Computing que ofrece los tres servicios: IaaS, PaaS y SaaS. Esto es muy importante porque ofrece a los clientes más opciones, una integración más fluida y una mejor seguridad cibernética. IBM ha creado un negocio en la nube de 15.800 millones de dólares
-
+# Análisis de resultados
+# Conclusiones 
+# Recomendaciones
+# Referencias
 ## Links de apps creadas
 
 Hola mundo
