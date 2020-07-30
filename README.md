@@ -46,6 +46,9 @@ Pero primer gran aporte referido al concepto de computación en la nube lo hizo 
 
 John McCarthy más tarde fue el primero en introducir el concepto de inteligencia artificial, donde mencionó la idea del tiempo compartido, que desde 1960 y  hasta la década de 1970 fue utilizado en oficinas de muchos lugares de Estados Unidos al ofrecer servicios de computo y transferencia por horas. Muy parecido a lo que hoy en día hacen casi todos los proveedores como Amazon AWS o Google Cloud.
 
+![](https://github.com/gabo1305/Investigacion-Cloud-Computing/blob/master/Imagenes/Licklider_Joseph.jpg)
+J.C.R Licklider 
+
 ## Definición de Cloud Computing
 Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
 
