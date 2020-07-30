@@ -14,7 +14,7 @@
 ¿Se está aprovechando al máximo el potencial de computer clouding?
 
 # Introducción
-Con los recientes avances en programación y tecnología de información, se han mostrado nuevas aplicaciones para la Internet, en este caso la computación en la nube , en la cual los recursos informáticos son ofrecidos y consumidos como servicios a través de Internet sin que los usuarios tengan conocimiento de la infraestructura que hay detrás. Siguiendo esta idea, La computación en la nube resulta conveniente y rentable tanto para usuarios como para los proveedores, ya que el poder trabajar con esta nueva tecnología, permitiendo ahorros tanto en licencias como en administración de servicios y de equipos.
+Con los recientes avances en programación y tecnología de información, se han mostrado nuevas aplicaciones para Internet, en este caso la computación en la nube , en la cual los recursos informáticos son ofrecidos y consumidos como servicios a través de Internet sin que los usuarios tengan conocimiento de la infraestructura que hay detrás. Siguiendo esta idea, La computación en la nube resulta conveniente y rentable tanto para usuarios como para los proveedores, ya que el poder trabajar con esta nueva tecnología, permitiendo ahorros tanto en licencias como en administración de servicios y de equipos.
 
 El presente trabajo de investigación explorará metodologías de desarrollo en la nube, además se analizará por medio de la implementación de un programa en 3 servidores distinos y se harán las comparaciones sobre cuál herramienta es "mejor" para utilizar como un desarrollador con conocimientos básicos en el ámbito, se verán apartados como simplicidad,costos e información sobre el proveedor.
 
@@ -40,20 +40,19 @@ Pese a que se puede encontrar información sobre la computación en la nube, no 
 # Marco teórico 
  
 ## Historia de Cloud Computing
-Los comienzos de la computación en la nube (o computación en la nube) nos llevan a los nombres de Herb Grosh, J.C.R Licklider y John McCarthy, quienes fueron los primeros en manejar estos conceptos .
+La computación en nube ha recorrido un largo camino desde que fue marcada por primera vez como una perspectiva de futuro por parte de algunos investigadores. La historia inicial de la computación en nube nos lleva a finales del siglo XX, cuando la prestación de servicios de computación comenzó. Sin embargo el concepto se remonta a J.C.R. Licklider y John McCarthy.
 
-Pero primer gran aporte referido al concepto de computación en la nube lo hizo Herb Grosh, quien afirmó allá por la década de 1950 que las economías se podrían adaptar mejor si confiaban en el almacenamiento de datos centralizado, y no en equipos individuales con almacenamiento de unidades.
+El cloud computing o computo en la nube es una evolución natural de la adopción generalizada de la virtualización, la arquitectura orientada a servicios y utilidad del cómputo. La idea básica es que los usuarios finales ya no necesitan tener conocimientos o el control sobre la infraestructura de tecnología “en la nube” que los apoya.
 
-John McCarthy más tarde fue el primero en introducir el concepto de inteligencia artificial, donde mencionó la idea del tiempo compartido, que desde 1960 y  hasta la década de 1970 fue utilizado en oficinas de muchos lugares de Estados Unidos al ofrecer servicios de computo y transferencia por horas. Muy parecido a lo que hoy en día hacen casi todos los proveedores como Amazon AWS o Google Cloud.
-
-
+El concepto básico del cloud computing o computación en nube se le atribuye a John McCarthy – responsable de introducir el término “inteligencia artificial”. En 1961, durante un discurso para celebrar el centenario del MIT, fue el primero en sugerir públicamente que la tecnología de tiempo compartido (Time-Sharing) de las computadoras podría conducir a un futuro donde el poder del cómputo e incluso aplicaciones específicas podrían venderse como un servicio.
 
 ## Definición de Cloud Computing
 Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
 
 **Ventajas**
-* Bajo coste.Productos gratuitos o pagos mensuales fijos por utilización, sin costes adicionales, dado que no hay que invertir en gran infraestructura, ni en licencias.
-* Seguridad. Los datos siempre están seguros (lee la política de seguridad de Debitoor).
+* Bajo costo.
+* Productos gratuitos o pagos mensuales fijos por utilización, dado que no hay que invertir en gran infraestructura, ni en licencias.
+* Seguridad. Los datos siempre están seguros.
 * No hay necesidad de poseer una gran capacidad de almacenamiento.
 * Mayor rapidez en el trabajo al estar basado en la web.
 * Información a tiempo real.
@@ -62,6 +61,7 @@ Conocida también como “servicios en la nube” El cloud computing consiste en
 * Acceso cuando quieras y donde quieras, sólo con una conexión a Internet.
 
 # Conceptos básicos:
+
 **Escalabilidad y elasticidad:** tus recursos computacionales no estarán limitados a una capacidad estática. Con esta funcionalidad de las plataformas en la nube tus sistemas se adaptarán a la carga a la que están siendo sometidos, por lo que no se agotará el almacenamiento o la capacidad de computación de tu aplicación.
 
 **Independencia entre el dispositivo y la ubicación:** ya no son necesarios los equipos ni las tediosas salas de data centers. La computación en la nube se caracteriza por la puesta a disposición de consolas de administración y múltiples ambientes de trabajo que pueden ser accedidas a través de un dispositivo móvil, tu editor de código favorito o en tu computador, independientemente del lugar en el que te encuentres ubicado.
@@ -73,7 +73,7 @@ Conocida también como “servicios en la nube” El cloud computing consiste en
 **Rendimiento:** el rendimiento es una pieza clave en este modelo tecnológico, ya que todos los recursos están dispuestos para la optimización del resultado final. Se crean múltiples integraciones para que el usuario esté en capacidad de hacer un seguimiento permanente e implementar correcciones que permitan obtener aún más capacidad de los mismos recursos.
 
 **Mantenimiento**: en el caso de las aplicaciones de computación en la nube, este proceso se reduce a la asignación de personal capacitado para manejar servicios de seguimiento. La plataforma se encargará de lo demás, ya que el mantenimiento a los sistemas se puede configurar para que se dé automáticamente. Esto reduce tiempos de implementación que resulta en que se pueda centrar la atención en la producción del software.
-
+# Explicación de los modelos de despliegue
 # Nube pública
 La nube pública se define como servicios informáticos que ofrecen proveedores externos a través de la Internet pública y que están disponibles para todo aquel que desee utilizarlos o comprarlos. Pueden ser gratuitos o venderse a petición, lo que permite a los clientes pagar solo por el uso que hacen de ciclos de CPU, el almacenamiento o el ancho de banda que consumen.
 A diferencia de las nubes privadas, las nubes públicas pueden ahorrar a las compañías los enormes gastos que supone tener que comprar, administrar y mantener hardware e infraestructura de aplicaciones locales: el proveedor del servicio en la nube es el responsable de todo el trabajo de administración y mantenimiento del sistema. Las nubes públicas también se pueden implementar con más rapidez que las infraestructuras locales y con una plataforma que permite una escalabilidad casi ilimitada. Todos los empleados de una compañía pueden usar la misma aplicación desde cualquier oficina o sucursal con el dispositivo que prefieran, siempre y cuando tenga acceso a Internet. Aunque ha surgido cierta preocupación en cuanto a la seguridad de los entornos de nube pública, cuando se implementa correctamente, la nube pública puede ser tan segura como la implementación de nube privada con la administración más eficaz, si el proveedor utiliza métodos de seguridad adecuados, como sistemas de detección de intrusiones y prevención (IDPS).
@@ -221,6 +221,11 @@ https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expr
 
 [14] Sitio (2015, Mayo 12). ¿Qué es BlueMix de IBM?. [Online] Disponible: https://www.itsitio.com/ar/que-es-bluemix-de-ibm/
 
+# HOLA
+## HOLA2
+### HOLA3
+**HOLA4**
+*HOLA5*
 **Links de apps creadas/Calcular factorial**
 
 https://factoriald1.azurewebsites.net/
