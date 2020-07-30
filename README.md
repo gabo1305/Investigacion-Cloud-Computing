@@ -226,14 +226,13 @@ https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expr
 
 ## Links de apps creadas/Calcular factorial
 
-https://factoriald1.azurewebsites.net/
-(Creado en python, proveedor : Azure) Nombre en el proveedor: factoriald1
+[(Creado en python, proveedor : Azure) Nombre en el proveedor: factoriald1](https://factoriald1.azurewebsites.net/)
 
-http://appinvestigaciond1.mybluemix.net/  
-(Creado en python, proveedor:Bluemix(IBM)) Nombre en proveedor: appinvestigaciond1
 
-https://simpleappinvestigacion.nn.r.appspot.com/ 
-(creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion
+[(Creado en python, proveedor:Bluemix(IBM)) Nombre en proveedor: appinvestigaciond1](http://appinvestigaciond1.mybluemix.net/)
+
+[(creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion](
+https://simpleappinvestigacion.nn.r.appspot.com/)
 
 ## LINK GITHUB PAGES
 https://gabo1305.github.io/Investigacion-Cloud-Computing/
