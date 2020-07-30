@@ -213,9 +213,15 @@ https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expr
 
 [10] Microsoft Azure (S.F) ¿Qué es PaaS? Plataforma como servicio. [Online]. Disponible: https://azure.microsoft.com/es-es/overview/what-is-paas/
 
-## Links de apps creadas
+[11] Microsoft Azure(S.F) ¿Qué es SaaS? Software como servicio. [Online]. Disponible: https://azure.microsoft.com/es-es/overview/what-is-saas/
 
-**Apps calcula factorial**
+[12] AWS. (S.F). Informática en la nube con AWS.[Online]. Disponible: https://aws.amazon.com/es/what-is-aws/
+
+[13] Tecon. (S.f) ¿Qué es Microsoft Azure? ¿Cómo funciona?. [Online]. Disponible: https://www.tecon.es/que-es-microsoft-azure-como-funciona/
+
+[14] Sitio (2015, Mayo 12). ¿Qué es BlueMix de IBM?. [Online] Disponible: https://www.itsitio.com/ar/que-es-bluemix-de-ibm/
+
+**Links de apps creadas/Calcular factorial**
 
 https://factoriald1.azurewebsites.net/
 (Creado en python, proveedor : Azure) Nombre en el proveedor: factoriald1
@@ -226,7 +232,8 @@ http://appinvestigaciond1.mybluemix.net/
 https://simpleappinvestigacion.nn.r.appspot.com/ 
 (creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion
 
-Link del GithubPages// https://gabo1305.github.io/Investigacion-Cloud-Computing/
+**LINK GITHUB PAGES**
+https://gabo1305.github.io/Investigacion-Cloud-Computing/
 
 
 
