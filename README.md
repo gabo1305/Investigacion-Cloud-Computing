@@ -181,15 +181,25 @@ Existen diferentes tipos de nubes, cada una con condiciones diferentes para sati
 
 IaaS, SaaS y PaaS son los servicios que se ofrecen en computer clouding, donde el IaaS permite que las empresas utilicen sus propias plataformas y aplicaciones en una infraestructura de proveedor de servicios, ahorrandole a la empresa la inversion de adquirir hardware y staff capacitado en esa area. El Saas es una oferta de cloud computing que proporciona a los usuarios acceso al software basado en cloud de un proveedor donde no se tendra que descargar las aplicaciones a su dispositivo local y todo se trabaja desde la nube, ahorrando espacio y recursos al cliente, ademas de contar con la seguridad de que no perderá los datos porque todo se mantiene en linea. El Paas ofrecen un entorno donde los desarrolladores pueden  crear, gestionar y distribuir sus propias aplicaciones, permitiendo a las organizaciones centrarse en el desarrollo, sin tener que preocuparse por la infraestructura y su mantenimiento.
 
+
 # Conclusiones 
 
-* Los avances en la tecnología deberían ser aprovechados, de esta manera se logrará mejorar la experiencia con estos y además facilitar cualquier trabajo que lo conlleve.
-* No hace falta que una empresa tenga bajo una misma infraestructura todos los recursos que se necesitan para entregar un producto final, cuando ya hay otros que venden un servicio que facilita su trabajo.
-* Es más rentable pagar una mensualidad de servicio de la nube a invertir en todo el software y hardware que se necesita para cumplir la misma tarea de almacenar información.
+La Computación en Nube, es una tecnología que permite ofrecer servicios a través de Internet, ofreciendo este todo lo que implica un sistema informático en donde los usuarios puedan acceder a los servicios disponibles sin conocimientos (o, al menos sin ser expertos) en la gestión de los recursos que usan.
+Sin duda la nube computacional ha llegado para establecerse cada vez de manera más formal, aportando con soluciones que van aumentando de tal manera que día a día son más usuarios los que se integran a este modo de trabajo, se sabe que los avances en la tecnología deberían ser aprovechados, de esta manera se logrará mejorar la experiencia con estos y además facilitar cualquier trabajo que lo conlleve.
+No hace falta que una empresa tenga bajo una misma infraestructura todos los recursos que se necesitan para entregar un producto final, cuando ya hay otros que venden un servicio que facilita su trabajo, además como punto positivo es más rentable pagar una mensualidad de servicio de la nube a invertir en todo el software y hardware que se necesita para cumplir la misma tarea de almacenar información.
+ 
 
 # Recomendaciones
 
-FALTA
+Una Vez concluida la investigación se recomienda:
+➔ Trabajar de manera ordenada con sus proyectos, ya que si se crean muchos después de cierta cantidad no podrán utilizar el servicio, esto en la prueba gratuita.
+➔ Si se cuenta con un correo estudiantil, probablemente cuentes con una cuenta de Microsoft Azure gratuita, la cual se recomieta utilizar.
+➔ Leer los tutoriales que brinda el servicio, cada proveedor cuenta con tutoriales distintos, los cuales lo guiarán en suprimer proyecto.
+➔ Tener conocimientos básicos de como utilizar el cmd, bash etc, ya que se utilizan para ligar el servicio con el programa que crea el desarrollador.
+➔ Se recomienda utilizar GitHub, debido a que se suelen hacer distintas pruebas, y github brinda la posibilidad de mantener versiones distinintas del código
+➔ Leer detenidamente los términos de la cuenta gratuita que se le brinda, esto porque por algún error podría activar un servicio de paga y terminará con gastoa adicional no deseado.
+➔ Leer la duración de su servicio, cuando se crea una aplicación y esta se aloja en un proveedor, por ejemplo Bluemix, este servicio tardará activo 10 días en la dirección que se le brinda, luego de esos días se detendrá, aunque puede volver a activarse, en algunos casos con costos adicionales.
+➔ Por temas de seguridad es recomendable respaldar sus archivos, puede utilizar GitHub para no perder su códiigo, además cambiar sus contraseñas con frecuencia. 
 
 # Referencias bibliográficas
 
