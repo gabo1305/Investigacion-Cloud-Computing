@@ -40,14 +40,14 @@ Pese a que se puede encontrar información sobre la computación en la nube, no 
 # Marco teórico 
  
 ## Historia de Cloud Computing
-La computación en nube ha recorrido un largo camino desde que fue marcada por primera vez como una perspectiva de futuro por parte de algunos investigadores. La historia inicial de la computación en nube nos lleva a finales del siglo XX, cuando la prestación de servicios de computación comenzó. Sin embargo el concepto se remonta a J.C.R. Licklider y John McCarthy.
+La computación en nube ha recorrido un largo camino desde que fue marcada por primera vez como una perspectiva de futuro por parte de algunos investigadores. La historia inicial de la computación en nube nos lleva a finales del siglo XX, cuando la prestación de servicios de computación comenzó. Sin embargo el concepto se remonta a J.C.R. Licklider y John McCarthy.[1]
 
-El cloud computing o computo en la nube es una evolución natural de la adopción generalizada de la virtualización, la arquitectura orientada a servicios y utilidad del cómputo. La idea básica es que los usuarios finales ya no necesitan tener conocimientos o el control sobre la infraestructura de tecnología “en la nube” que los apoya.
+El cloud computing o computo en la nube es una evolución natural de la adopción generalizada de la virtualización, la arquitectura orientada a servicios y utilidad del cómputo. La idea básica es que los usuarios finales ya no necesitan tener conocimientos o el control sobre la infraestructura de tecnología “en la nube” que los apoya.[1]
 
-El concepto básico del cloud computing o computación en nube se le atribuye a John McCarthy – responsable de introducir el término “inteligencia artificial”. En 1961, durante un discurso para celebrar el centenario del MIT, fue el primero en sugerir públicamente que la tecnología de tiempo compartido (Time-Sharing) de las computadoras podría conducir a un futuro donde el poder del cómputo e incluso aplicaciones específicas podrían venderse como un servicio.
+El concepto básico del cloud computing o computación en nube se le atribuye a John McCarthy – responsable de introducir el término “inteligencia artificial”. En 1961, durante un discurso para celebrar el centenario del MIT, fue el primero en sugerir públicamente que la tecnología de tiempo compartido (Time-Sharing) de las computadoras podría conducir a un futuro donde el poder del cómputo e incluso aplicaciones específicas podrían venderse como un servicio.[1]
 
 ## Definición de Cloud Computing
-Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
+Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.[2]
 
 **Ventajas**
 * Bajo costo.
@@ -62,49 +62,49 @@ Conocida también como “servicios en la nube” El cloud computing consiste en
 
 ## Conceptos básicos:
 
-**Escalabilidad y elasticidad:** tus recursos computacionales no estarán limitados a una capacidad estática. Con esta funcionalidad de las plataformas en la nube tus sistemas se adaptarán a la carga a la que están siendo sometidos, por lo que no se agotará el almacenamiento o la capacidad de computación de tu aplicación.
+**Escalabilidad y elasticidad:** tus recursos computacionales no estarán limitados a una capacidad estática. Con esta funcionalidad de las plataformas en la nube tus sistemas se adaptarán a la carga a la que están siendo sometidos, por lo que no se agotará el almacenamiento o la capacidad de computación de tu aplicación.[3]
 
-**Independencia entre el dispositivo y la ubicación:** ya no son necesarios los equipos ni las tediosas salas de data centers. La computación en la nube se caracteriza por la puesta a disposición de consolas de administración y múltiples ambientes de trabajo que pueden ser accedidas a través de un dispositivo móvil, tu editor de código favorito o en tu computador, independientemente del lugar en el que te encuentres ubicado.
+**Independencia entre el dispositivo y la ubicación:** ya no son necesarios los equipos ni las tediosas salas de data centers. La computación en la nube se caracteriza por la puesta a disposición de consolas de administración y múltiples ambientes de trabajo que pueden ser accedidas a través de un dispositivo móvil, tu editor de código favorito o en tu computador, independientemente del lugar en el que te encuentres ubicado.[3]
 
-**Seguridad:** en la computación en la nube, la seguridad es igual de buena e incluso puede superar a los sistemas tradicionales. Esto se debe, en parte, a que los proveedores son capaces de dedicar recursos a la solución de los problemas de seguridad que muchos clientes no pueden permitirse el lujo de abordar. El usuario de la nube es responsable de la seguridad a nivel de aplicación. El proveedor de la nube es responsable de la seguridad física.
+**Seguridad:** en la computación en la nube, la seguridad es igual de buena e incluso puede superar a los sistemas tradicionales. Esto se debe, en parte, a que los proveedores son capaces de dedicar recursos a la solución de los problemas de seguridad que muchos clientes no pueden permitirse el lujo de abordar. El usuario de la nube es responsable de la seguridad a nivel de aplicación. El proveedor de la nube es responsable de la seguridad física.[3]
 
-**Costo:** los costos se reducen notablemente. Un servidor en la nube convierte los gastos de capital en gastos de funcionamiento, lo cual tiene como resultado la reducción de barreras de entrada, ya que la infraestructura se proporciona típicamente por una tercera parte y no tiene que ser adquirida por una sola vez o tareas informáticas intensivas infrecuentes.
+**Costo:** los costos se reducen notablemente. Un servidor en la nube convierte los gastos de capital en gastos de funcionamiento, lo cual tiene como resultado la reducción de barreras de entrada, ya que la infraestructura se proporciona típicamente por una tercera parte y no tiene que ser adquirida por una sola vez o tareas informáticas intensivas infrecuentes.[3]
 
-**Rendimiento:** el rendimiento es una pieza clave en este modelo tecnológico, ya que todos los recursos están dispuestos para la optimización del resultado final. Se crean múltiples integraciones para que el usuario esté en capacidad de hacer un seguimiento permanente e implementar correcciones que permitan obtener aún más capacidad de los mismos recursos.
+**Rendimiento:** el rendimiento es una pieza clave en este modelo tecnológico, ya que todos los recursos están dispuestos para la optimización del resultado final. Se crean múltiples integraciones para que el usuario esté en capacidad de hacer un seguimiento permanente e implementar correcciones que permitan obtener aún más capacidad de los mismos recursos.[3]
 
-**Mantenimiento**: en el caso de las aplicaciones de computación en la nube, este proceso se reduce a la asignación de personal capacitado para manejar servicios de seguimiento. La plataforma se encargará de lo demás, ya que el mantenimiento a los sistemas se puede configurar para que se dé automáticamente. Esto reduce tiempos de implementación que resulta en que se pueda centrar la atención en la producción del software.
+**Mantenimiento**: en el caso de las aplicaciones de computación en la nube, este proceso se reduce a la asignación de personal capacitado para manejar servicios de seguimiento. La plataforma se encargará de lo demás, ya que el mantenimiento a los sistemas se puede configurar para que se dé automáticamente. Esto reduce tiempos de implementación que resulta en que se pueda centrar la atención en la producción del software.[3]
 # Explicación de los modelos de despliegue
 
 ## Nube pública
 
 La nube pública se define como servicios informáticos que ofrecen proveedores externos a través de la Internet pública y que están disponibles para todo aquel que desee utilizarlos o comprarlos. Pueden ser gratuitos o venderse a petición, lo que permite a los clientes pagar solo por el uso que hacen de ciclos de CPU, el almacenamiento o el ancho de banda que consumen.
-A diferencia de las nubes privadas, las nubes públicas pueden ahorrar a las compañías los enormes gastos que supone tener que comprar, administrar y mantener hardware e infraestructura de aplicaciones locales: el proveedor del servicio en la nube es el responsable de todo el trabajo de administración y mantenimiento del sistema. Las nubes públicas también se pueden implementar con más rapidez que las infraestructuras locales y con una plataforma que permite una escalabilidad casi ilimitada. Todos los empleados de una compañía pueden usar la misma aplicación desde cualquier oficina o sucursal con el dispositivo que prefieran, siempre y cuando tenga acceso a Internet. Aunque ha surgido cierta preocupación en cuanto a la seguridad de los entornos de nube pública, cuando se implementa correctamente, la nube pública puede ser tan segura como la implementación de nube privada con la administración más eficaz, si el proveedor utiliza métodos de seguridad adecuados, como sistemas de detección de intrusiones y prevención (IDPS).
+A diferencia de las nubes privadas, las nubes públicas pueden ahorrar a las compañías los enormes gastos que supone tener que comprar, administrar y mantener hardware e infraestructura de aplicaciones locales: el proveedor del servicio en la nube es el responsable de todo el trabajo de administración y mantenimiento del sistema. Las nubes públicas también se pueden implementar con más rapidez que las infraestructuras locales y con una plataforma que permite una escalabilidad casi ilimitada. Todos los empleados de una compañía pueden usar la misma aplicación desde cualquier oficina o sucursal con el dispositivo que prefieran, siempre y cuando tenga acceso a Internet. Aunque ha surgido cierta preocupación en cuanto a la seguridad de los entornos de nube pública, cuando se implementa correctamente, la nube pública puede ser tan segura como la implementación de nube privada con la administración más eficaz, si el proveedor utiliza métodos de seguridad adecuados, como sistemas de detección de intrusiones y prevención (IDPS).[6]
 
 **Características:**
 * Servicio abierto al público ofrecido por un proveedor
 * Recursos hardware propiedad del proveedor.
 *	Gestión del cloud por parte del proveedor.
 *	Suscripción del usuarios en el  proveedor (el tiempo que quieras).
-*	Pago por uso (usuarios, empresas, organizaciones, etc.).
+*	Pago por uso (usuarios, empresas, organizaciones, etc.)[6]
 
 ## Nube privada
 
 Los servicios informáticos que se ofrecen a través de Internet o de una red interna privada solo a algunos usuarios y no al público general. También denominada nube interna o corporativa, la informática en nube privada aporta a las empresas gran parte de las ventajas de la nube pública (como autoservicio, escalabilidad y elasticidad), pero con el control y la personalización disponibles en los recursos dedicados a través de una infraestructura informática hospedada en el entorno local. Además, las nubes privadas ofrecen un nivel más alto de seguridad y privacidad con firewalls de la compañía y hospedaje interno, con el fin de garantizar que las operaciones y los datos confidenciales no estén accesibles para proveedores externos. Un inconveniente es que el departamento de TI de la compañía es responsable de la administración de la nube privada y el costo que conlleva. Por tanto, las nubes privadas requieren el mismo gasto de personal, administración y mantenimiento que los centros de datos tradicionales en propiedad.
-En una nube privada, se pueden ofrecer dos modelos de servicios en la nube. El primero es infraestructura como servicio (IaaS) y el segundo es plataforma como servicio (PaaS).
+En una nube privada, se pueden ofrecer dos modelos de servicios en la nube. El primero es infraestructura como servicio (IaaS) y el segundo es plataforma como servicio (PaaS).[8]
 
 **Caracerísticas**
 
 *	Uso exclusivo de una organización y/o múltiples usuarios.
 *	Gestión del cloud por la propia organización.
-*	Puede delegarse la gestión y operación a una compañía especializada.
+*	Puede delegarse la gestión y operación a una compañía especializada.[8]
 *	Recursos hardware propios.
 
 ## Nube híbrida
 
 Una nube híbrida es la combinación de uno o más entornos de nube pública y privada, de tal forma que las organizaciones empresariales se benefician de las ventajas que proporcionan los dos tipos de infraestructura cloud. Así, se dispone de un conjunto de recursos virtuales gestionados por software de administración y automatización que permite a los usuarios acceder a lo que necesiten.
-Aunque el concepto de nube híbrida pueda dar la idea de conjunto, es importante destacar que los entornos de nube pública y privada que forman la nube híbrida son entidades únicas e individuales. Una interfaz de programación de aplicaciones (API) es la encargada de transferir recursos y cargas de trabajo de una nube a otra, manteniendo en el cloud privado las cargas de trabajo más críticas y aprovechando el potencial de la nube pública para optimizar costos.
+Aunque el concepto de nube híbrida pueda dar la idea de conjunto, es importante destacar que los entornos de nube pública y privada que forman la nube híbrida son entidades únicas e individuales. Una interfaz de programación de aplicaciones (API) es la encargada de transferir recursos y cargas de trabajo de una nube a otra, manteniendo en el cloud privado las cargas de trabajo más críticas y aprovechando el potencial de la nube pública para optimizar costos.[7]
 
-Sin embargo, no todas las nubes son iguales; hace no tanto tiempo, el CIO que considerara mover cargas de trabajo críticas a una nube pública podía ser acusado de temerario, alegando la falta de control que suponía dejar el recurso más valioso de cualquier compañía – los datos – en manos de no se sabe quién. Esta situación era especialmente relevante en sectores muy regulados, como el financiero, el energético o la Administración.
+Sin embargo, no todas las nubes son iguales; hace no tanto tiempo, el CIO que considerara mover cargas de trabajo críticas a una nube pública podía ser acusado de temerario, alegando la falta de control que suponía dejar el recurso más valioso de cualquier compañía – los datos – en manos de no se sabe quién. Esta situación era especialmente relevante en sectores muy regulados, como el financiero, el energético o la Administración.[7]
 
 **¿Qué ventajas tiene?**
 
@@ -113,15 +113,15 @@ La frase «lo mejor de los dos mundos» suele acompañar a cualquier material re
 * Mayor control, dado que la organización puede mantener cargas de trabajo críticas bajo infraestructura privada.
 *	Flexibilidad, tanto por la naturaleza escalable de la nube híbrida como por los recursos que puede aportar el cloud público.
 *	Optimización de costos, solo se paga por los recursos que se utilizan y cuando son necesarios.
-*	Sencillez, dado que no es una trancisión completa a la nube pública y se puede realizar una migración gradual y controlada, en las etapas que sean necesarias.
+*	Sencillez, dado que no es una trancisión completa a la nube pública y se puede realizar una migración gradual y controlada, en las etapas que sean necesarias.[7][8]
 
 # Explicación de los modelos de servicio
 
 ## IaaS
 
-Infraestructura como servicio (IaaS) es una oferta de cloud computing en la que un proveedor proporciona a los usuarios acceso a recursos de cálculo como servidores, almacenamiento y redes. Las empresas utilizan sus propias plataformas y aplicaciones en una infraestructura de proveedor de servicios.
+[9] Infraestructura como servicio (IaaS) es una oferta de cloud computing en la que un proveedor proporciona a los usuarios acceso a recursos de cálculo como servidores, almacenamiento y redes. Las empresas utilizan sus propias plataformas y aplicaciones en una infraestructura de proveedor de servicios.
 
-**Funciones principales**
+**Funciones principales** [9]
 *	En lugar de adquirir hardware directamente, los usuarios pagan por IaaS on demand.
 *	La infraestructura es escalable, en función de las necesidades de almacenamiento y procesamiento.
 *	Ahorra a las empresas el costo de comprar y mantener su propio hardware.
@@ -132,9 +132,9 @@ Infraestructura como servicio (IaaS) es una oferta de cloud computing en la que 
 
 ## saaS
 
-Software como servicio (SaaS) es una oferta de cloud computing que proporciona a los usuarios acceso al software basado en cloud de un proveedor. Los usuarios no instalan aplicaciones en sus dispositivos locales, sino que las aplicaciones residen en una red cloud remota a la que se accede a través de la web o una API. Mediante la aplicación, los usuarios pueden almacenar y analizar datos, además de colaborar en proyectos.
+Software como servicio (SaaS) es una oferta de cloud computing que proporciona a los usuarios acceso al software basado en cloud de un proveedor. Los usuarios no instalan aplicaciones en sus dispositivos locales, sino que las aplicaciones residen en una red cloud remota a la que se accede a través de la web o una API. Mediante la aplicación, los usuarios pueden almacenar y analizar datos, además de colaborar en proyectos.[11]
 
-**Funciones principales**
+**Funciones principales** [11]
 
 *	Los proveedores de SaaS proporcionan a los usuarios el software y las aplicaciones mediante un modelo de suscripción.
 *	Los usuarios no tienen que gestionar, instalar ni actualizar el software; los proveedores de SaaS lo gestionan.
@@ -147,9 +147,9 @@ Software como servicio (SaaS) es una oferta de cloud computing que proporciona a
 
 ## Paas
 
-Plataforma como servicio (PaaS) es una oferta de cloud computing que proporciona a los usuarios un entorno de cloud en el que pueden desarrollar, gestionar y distribuir aplicaciones. Además del almacenamiento y otros recursos informáticos, los usuarios pueden utilizar un conjunto de herramientas prediseñadas para desarrollar, personalizar y probar sus propias aplicaciones.
+Plataforma como servicio (PaaS) es una oferta de cloud computing que proporciona a los usuarios un entorno de cloud en el que pueden desarrollar, gestionar y distribuir aplicaciones. Además del almacenamiento y otros recursos informáticos, los usuarios pueden utilizar un conjunto de herramientas prediseñadas para desarrollar, personalizar y probar sus propias aplicaciones.[10]
 
-**Funciones principales**
+**Funciones principales** [10]
 *	PaaS proporciona una plataforma con herramientas para probar, desarrollar y alojar aplicaciones en el mismo entorno.
 *	Permite a las organizaciones centrarse en el desarrollo, sin tener que preocuparse por la infraestructura subyacente.
 *	Los proveedores gestionan la seguridad, los sistemas operativos, el software de servidor y las copias de seguridad.
@@ -192,13 +192,22 @@ No hace falta que una empresa tenga bajo una misma infraestructura todos los rec
 # Recomendaciones
 
 Una Vez concluida la investigación se recomienda:
+
 ➔ Trabajar de manera ordenada con sus proyectos, ya que si se crean muchos después de cierta cantidad no podrán utilizar el servicio, esto en la prueba gratuita.
+
 ➔ Si se cuenta con un correo estudiantil, probablemente cuentes con una cuenta de Microsoft Azure gratuita, la cual se recomieta utilizar.
+
 ➔ Leer los tutoriales que brinda el servicio, cada proveedor cuenta con tutoriales distintos, los cuales lo guiarán en suprimer proyecto.
+
 ➔ Tener conocimientos básicos de como utilizar el cmd, bash etc, ya que se utilizan para ligar el servicio con el programa que crea el desarrollador.
+
 ➔ Se recomienda utilizar GitHub, debido a que se suelen hacer distintas pruebas, y github brinda la posibilidad de mantener versiones distinintas del código
-➔ Leer detenidamente los términos de la cuenta gratuita que se le brinda, esto porque por algún error podría activar un servicio de paga y terminará con gastoa adicional no deseado.
+
+➔ Leer detenidamente los términos de la cuenta gratuita que se le brinda, esto porque por algún error podría activar un servicio de paga y terminará con gastoa adicional no 
+deseado.
+
 ➔ Leer la duración de su servicio, cuando se crea una aplicación y esta se aloja en un proveedor, por ejemplo Bluemix, este servicio tardará activo 10 días en la dirección que se le brinda, luego de esos días se detendrá, aunque puede volver a activarse, en algunos casos con costos adicionales.
+
 ➔ Por temas de seguridad es recomendable respaldar sus archivos, puede utilizar GitHub para no perder su códiigo, además cambiar sus contraseñas con frecuencia. 
 
 # Referencias bibliográficas
