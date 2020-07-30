@@ -18,7 +18,7 @@ Con los recientes avances en programación y tecnología de información, se han
 
 El presente trabajo de investigación explorará metodologías de desarrollo en la nube, además se analizará por medio de la implementación de un programa en 3 servidores distinos y se harán las comparaciones sobre cuál herramienta es "mejor" para utilizar como un desarrollador con conocimientos básicos en el ámbito, se verán apartados como simplicidad,costos e información sobre el proveedor.
 
-![](https://github.com/gabo1305/Investigacion-Cloud-Computing/blob/master/Imagenes/Cloud_Computing.jpg)
+
 
 # Objetivo general
 ➔ Investigar sobre computación en la nube.
@@ -46,8 +46,7 @@ Pero primer gran aporte referido al concepto de computación en la nube lo hizo 
 
 John McCarthy más tarde fue el primero en introducir el concepto de inteligencia artificial, donde mencionó la idea del tiempo compartido, que desde 1960 y  hasta la década de 1970 fue utilizado en oficinas de muchos lugares de Estados Unidos al ofrecer servicios de computo y transferencia por horas. Muy parecido a lo que hoy en día hacen casi todos los proveedores como Amazon AWS o Google Cloud.
 
-![](https://github.com/gabo1305/Investigacion-Cloud-Computing/blob/master/Imagenes/Licklider_Joseph.jpg)
-J.C.R Licklider 
+
 
 ## Definición de Cloud Computing
 Conocida también como “servicios en la nube” El cloud computing consiste en poder ofrecer servicios de computación mediante internet, esta es una tecnología nueva que busca tener todos los archivos y la información directamente en internet, sin darle importancia a tener capacidad de almacenamiento suficiente en un ordenador.  Se puede decir que el hardware y software es proporcionado como un servicio de otra empresa a través de Internet, por lo general de una manera completamente transparente.
@@ -204,6 +203,15 @@ https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expr
 
 [5] HewlettPackard (S.F). ¿QUÉ ES LA COMPUTACIÓN EN LA NUBE?. [Online] Disponible: https://www.hpe.com/es/es/what-is/cloud-computing.html
 
+[6] Microsoft Azure (S.F). ¿Qué es una nube pública?. [Online] Disponible: https://azure.microsoft.com/es-es/overview/what-is-a-public-cloud/
+
+[7] Cabacas,T.(2018,Julio 12). ¿Qué es la nube híbrida y por qué no paras de oír hablar de ella?. [Online]. Disponible: https://www.muycomputerpro.com/2018/07/12/que-es-nube-hibrida
+
+[8] Mirosoft Azure.(S.F) ¿Qué es la nube pública, privada e híbrida?. [Online]. Disponible: https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
+
+[9] Microsoft Azure. (S.F) ¿Qué es IaaS? Infraestructura como servicio. [Online] Disponible: https://azure.microsoft.com/es-es/overview/what-is-iaas/
+
+[10] Microsoft Azure (S.F) ¿Qué es PaaS? Plataforma como servicio. [Online]. Disponible: https://azure.microsoft.com/es-es/overview/what-is-paas/
 
 ## Links de apps creadas
 
@@ -219,4 +227,6 @@ https://simpleappinvestigacion.nn.r.appspot.com/
 (creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion
 
 Link del GithubPages// https://gabo1305.github.io/Investigacion-Cloud-Computing/
+
+
 
