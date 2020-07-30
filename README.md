@@ -18,6 +18,20 @@ Con los recientes avances en programación y tecnología de información, se han
 
 El presente trabajo de investigación explorará metodologías de desarrollo en la nube, además se analizará por medio de la implementación de un programa en 3 servidores distinos y se harán las comparaciones sobre cuál herramienta es "mejor" para utilizar como un desarrollador con conocimientos básicos en el ámbito, se verán apartados como simplicidad,costos e información sobre el proveedor.
 
+![](https://github.com/gabo1305/Investigacion-Cloud-Computing/blob/master/Imagenes/Cloud_Computing.jpg)
+
+# Objetivo general
+➔ Investigar sobre computación en la nube.
+
+# Objetivos específicos
+➔ Investigar sobre los conceptos fundamentales de computación en la nube
+
+➔ Comparar los distintos modelos de computación en la nube
+
+➔ Investigar sobre los principales competidores y su oferta para los desarrolladores
+
+➔ Construir una aplicación de ejemplo en al menos tres proveedores de PaaS
+
 # Descripción del problema
 Existen muchas personas que están interesadas en la programación en la nube, pero no saben como iniciar en este nuevo mundo de información,  que cuentan con conocimientos nulos sobre el tema, por tanto se hace indispensable un sitio en el cual se pueda encontrar la información básica necesaria para iniciar.
 Un sitio en el que puedan ingresar para entender algunos conceptos básicos y a demás orientarse sobre que preevedores se recomienda utilizar para un desarrollador principiante ya que se estarán comparando algunos de ellos.
@@ -167,9 +181,7 @@ FALTA
 * Los avances en la tecnología deberían ser aprovechados, de esta manera se logrará mejorar la experiencia con estos y además facilitar cualquier trabajo que lo conlleve.
 * No hace falta que una empresa tenga bajo una misma infraestructura todos los recursos que se necesitan para entregar un producto final, cuando ya hay otros que venden un servicio que facilita su trabajo.
 * Es más rentable pagar una mensualidad de servicio de la nube a invertir en todo el software y hardware que se necesita para cumplir la misma tarea de almacenar información.
-* 
 
-FALTA
 
 # Recomendaciones
 
@@ -178,11 +190,16 @@ FALTA
 # Referencias bibliográficas
 
 
-[1] Desconocido. (2018,marzo 22).¿Quién inventó la computación en la nube?. [Online]. Disponible:
+[1] Desconocido. (2018,Marzo 22).¿Quién inventó la computación en la nube?. [Online]. Disponible:
 https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expresi%C3%B3n%20%E2%80%9CCloud%20Computing%E2%80%9D%20(,la%20tecnolog%C3%ADa%20de%20Inteligencia%20Artificial.
 
-[2]. Borges, E.(2017,junio 20). Computación en la nube: historia.[Online]. Disponible: https://blog.infranetworking.com/computacion-en-la-nube-la-historia/
+[2]. Borges, E.(2017,Junio 20). Computación en la nube: historia.[Online]. Disponible: https://blog.infranetworking.com/computacion-en-la-nube-la-historia/
 
+[3] Rouse,M.(2010, Diciembre). Computación en la nube. [Online] Disponible: https://www.la.logicalis.com/soluciones-servicios/usted-la-nube-y-logicalis/conceptos-basicos/
+
+[4] Salesforce. (S.F). ¿Qué es Cloud Computing? .[Online] Disponible: https://www.salesforce.com/mx/cloud-computing/
+
+[5] HewlettPackard (S.F). ¿QUÉ ES LA COMPUTACIÓN EN LA NUBE?. [Online] Disponible: https://www.hpe.com/es/es/what-is/cloud-computing.html
 
 
 ## Links de apps creadas
