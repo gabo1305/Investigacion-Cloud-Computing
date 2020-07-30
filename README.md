@@ -11,10 +11,10 @@
 # Computación en la nube, para conocimientos básicos.
 
 # Problema
-¿Tiene la población estudiantil del Instituto Tecnológico de Costa Rica conocimientos básicos sobre la computación en la nube?
+¿Se está aprovechando al máximo el potencial de computer clouding?
 
 # Introducción
-Con los recientes avances en programación y tecnología de información, se han mostrado nuevas aplicaciones para la Internet, en este caso la computación en la nube , en la cual los recursos informáticos son ofrecidos y consumidos como servicios a través de Internet sin que los usuarios tengan conocimiento de la infraestructura que hay detrás. Siguiendo esta idea, La computación en la nube resulta conveniente y rentable tanto para usuarios como para los proveedores, ya que el poder trabajar con esta nueva tecnología, permittiendo ahorros tanto en licencias como en administración de servicios y de equipos.
+Con los recientes avances en programación y tecnología de información, se han mostrado nuevas aplicaciones para la Internet, en este caso la computación en la nube , en la cual los recursos informáticos son ofrecidos y consumidos como servicios a través de Internet sin que los usuarios tengan conocimiento de la infraestructura que hay detrás. Siguiendo esta idea, La computación en la nube resulta conveniente y rentable tanto para usuarios como para los proveedores, ya que el poder trabajar con esta nueva tecnología, permitiendo ahorros tanto en licencias como en administración de servicios y de equipos.
 
 El presente trabajo de investigación explorará metodologías de desarrollo en la nube, además se analizará por medio de la implementación de un programa en 3 servidores distinos y se harán las comparaciones sobre cuál herramienta es "mejor" para utilizar como un desarrollador con conocimientos básicos en el ámbito, se verán apartados como simplicidad,costos e información sobre el proveedor.
 
@@ -148,14 +148,26 @@ Se encuentra en el tercer puesto. Gracias a la transformación de su amplia gama
 
 # Análisis de resultados
 De forma resumida, se describirán los aspectos abordados a lo largo de la investigación realizada, los resultados obtenidos y su análisis.
-Cloud computing es un tema del que ya se está hablando en el mundo de la tecnología, algunas empresas ya dieron el primer salto de empezar a utilizar esta rama de la nube que facilita y moderniza muchos procesos que por años se seguía utilizando el mismo, como tener la propia base datos y servidores bajo la misma infraestructura donde esta era requerida. 
-Es un cambio que sin lugar a duda llama la atención a primera vista de grandes y pequeñas entidades, pero crea una incertidumbre y desconfianza al pensar en confiar datos internos a un desconocido. 
-Uno de los mayores beneficios que trae el cloud computing es el hecho de no tener que dar mantenimiento a hardware y la velocidad para accessar información por todo encontrarse en la web.
+
+Cloud computing es un tema del que ya se está hablando en el mundo de la tecnología, algunas empresas ya dieron el primer salto de empezar a utilizar esta rama de la nube que facilita y moderniza muchos procesos que por años se seguía utilizando el mismo, como tener la propia base datos o servidores bajo la misma infraestructura donde esta era requerida. Esto implica estar a cargo de su mantenimiento y funcionalidad en todo momento. 
+
+La idea de no tener que gastar en hardware, personal, mantenimiento e infraestructura para mantener en función una parte tan crucial para una empresa como lo son sus datos y software, es algo que sin lugar a duda llama la atención a primera vista de grandes y pequeñas entidades, pero crea una incertidumbre y desconfianza al pensar en confiar datos internos a un desconocido. 
+
+Uno de los mayores beneficios que trae el cloud computing es el hecho de no tener que invertir en hardware para almacenamiento, ya que estos son costosos y de alto mantenimiento. Queda mucho más factible pagar una mensualidad de nube donde la información igual estará segura y no se necesitará tener personal pendiente del estado de la base de datos o servidor.
+
+Existen diferentes tipos de nubes, cada una con condiciones diferentes para satisfacer los ideales de los que lo adquieren. Ya sea privados donde no cualquiera puede tener acceso a este y que prefieran contar con el hardware dentro de las instalaciones y poner más medidas de seguridad como firewalls. Publicos donde estos son más flexibles y ofrecen el servicio a todo el pulico y los pagos pueden ser por uso. Hibridos donde se combinan las caracteristicas de los publicos y privados, de tal forma que las organizaciones empresariales se benefician de las ventajas que proporcionan los dos tipos de infraestructura cloud.
+
+IaaS, SaaS y PaaS son los servicios que se ofrecen en computer clouding, donde el IaaS permite que las empresas utilicen sus propias plataformas y aplicaciones en una infraestructura de proveedor de servicios, ahorrandole a la empresa la inversion de adquirir hardware y staff capacitado en esa area. El Saas es una oferta de cloud computing que proporciona a los usuarios acceso al software basado en cloud de un proveedor donde no se tendra que descargar las aplicaciones a su dispositivo local y todo se trabaja desde la nube, ahorrando espacio y recursos al cliente, ademas de contar con la seguridad de que no perderá los datos porque todo se mantiene en linea. El Paas ofrecen un entorno donde los desarrolladores pueden  crear, gestionar y distribuir sus propias aplicaciones, permitiendo a las organizaciones centrarse en el desarrollo, sin tener que preocuparse por la infraestructura y su mantenimiento.
 
 
 FALTA
 
 # Conclusiones 
+
+* Los avances en la tecnología deberían ser aprovechados, de esta manera se logrará mejorar la experiencia con estos y además facilitar cualquier trabajo que lo conlleve.
+* No hace falta que una empresa tenga bajo una misma infraestructura todos los recursos que se necesitan para entregar un producto final, cuando ya hay otros que venden un servicio que facilita su trabajo.
+* Es más rentable pagar una mensualidad de servicio de la nube a invertir en todo el software y hardware que se necesita para cumplir la misma tarea de almacenar información.
+* 
 
 FALTA
 
@@ -163,18 +175,22 @@ FALTA
 
 FALTA
 
-# Referencias
+# Referencias bibliográficas
 
-FALTA
+
+[1] Desconocido. (2018,marzo 22).¿Quién inventó la computación en la nube?. [Online]. Disponible:
+https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expresi%C3%B3n%20%E2%80%9CCloud%20Computing%E2%80%9D%20(,la%20tecnolog%C3%ADa%20de%20Inteligencia%20Artificial.
+
+[2]. Borges, E.(2017,junio 20). Computación en la nube: historia.[Online]. Disponible: https://blog.infranetworking.com/computacion-en-la-nube-la-historia/
+
+
 
 ## Links de apps creadas
 
-Hola mundo
+**Apps calcula factorial**
 
-https://firstappd1.azurewebsites.net/
-(Creado en python, proveedor : Azure) Nombre en el proveedor: dirstappd1(Se intenta implementar pero lanza un error de acceso)
-
-Apps calcula factorial
+https://factoriald1.azurewebsites.net/
+(Creado en python, proveedor : Azure) Nombre en el proveedor: factoriald1
 
 http://appinvestigaciond1.mybluemix.net/  
 (Creado en python, proveedor:Bluemix(IBM)) Nombre en proveedor: appinvestigaciond1
@@ -183,13 +199,4 @@ https://simpleappinvestigacion.nn.r.appspot.com/
 (creado en python, proveedor: Googe Cloud Platform) Nombre en proveedor:simpleappinvestigacion
 
 Link del GithubPages// https://gabo1305.github.io/Investigacion-Cloud-Computing/
-
-
-
-/LINKS PARA HACER EN REFERENCIAS
-
-https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expresi%C3%B3n%20%E2%80%9CCloud%20Computing%E2%80%9D%20(,la%20tecnolog%C3%ADa%20de%20Inteligencia%20Artificial.
-
-
-https://blog.infranetworking.com/computacion-en-la-nube-la-historia/
 
