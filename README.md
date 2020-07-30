@@ -33,6 +33,7 @@ El presente trabajo de investigación explorará metodologías de desarrollo en 
 ➔ Construir una aplicación de ejemplo en al menos tres proveedores de PaaS
 
 # Descripción del problema
+
 Existen muchas personas que están interesadas en la programación en la nube, pero no saben como iniciar en este nuevo mundo de información,  que cuentan con conocimientos nulos sobre el tema, por tanto se hace indispensable un sitio en el cual se pueda encontrar la información básica necesaria para iniciar.
 Un sitio en el que puedan ingresar para entender algunos conceptos básicos y a demás orientarse sobre que preevedores se recomienda utilizar para un desarrollador principiante ya que se estarán comparando algunos de ellos.
 Pese a que se puede encontrar información sobre la computación en la nube, no existe como tal una comparación entre proveedores, y este apartado es sumamente relevante ya que el desarrollador debe elegir la opción que más se adapte a sus necesadidades, en el presente trabajo encontrará 
@@ -181,6 +182,14 @@ Existen diferentes tipos de nubes, cada una con condiciones diferentes para sati
 
 IaaS, SaaS y PaaS son los servicios que se ofrecen en computer clouding, donde el IaaS permite que las empresas utilicen sus propias plataformas y aplicaciones en una infraestructura de proveedor de servicios, ahorrandole a la empresa la inversion de adquirir hardware y staff capacitado en esa area. El Saas es una oferta de cloud computing que proporciona a los usuarios acceso al software basado en cloud de un proveedor donde no se tendra que descargar las aplicaciones a su dispositivo local y todo se trabaja desde la nube, ahorrando espacio y recursos al cliente, ademas de contar con la seguridad de que no perderá los datos porque todo se mantiene en linea. El Paas ofrecen un entorno donde los desarrolladores pueden  crear, gestionar y distribuir sus propias aplicaciones, permitiendo a las organizaciones centrarse en el desarrollo, sin tener que preocuparse por la infraestructura y su mantenimiento.
 
+# Se analizará cada proveedor, haciendo una comparativa entre ellos, contando nuestra experiencia de uso
+**Microsoft Azure,Google Cloud Platform, Bluemix de IBM**
+
+Comenzaremos analizando Azure, este proveedor para algunas universidades se encuentra gratis, debe indagar para saber si su universidad se encuentra afiliada, pero si se crea una cuenta gratuita en esta se le brindarán $300 para comenzar, además si se crea un servicio este tardará 30 días antes de detenerse, en nuestro caso se crearon varios recursos, como prueba lo cual influye en el costo de la prueba gratuita, culminando el programa que calcular factorial, con varios días activo, nos queda un costo de $145,52. Haciendo énfasis en que se crearon muchos recursos como prueba, en general el proveedor funciona de una manera excelente y no causó ningún problema, la experiencia de uso fue muy correcta, y la guía por parte de Azure es muy básica, podría mejorar en este ámbito.
+
+Analizamos IBM, en este es totalmente gratuito si se usan los recursos lite, los cuales están limitos en temas como capacidad de memoria, el máximo es de 128 mb, si se requiere utilizar más memoria, se generará un costo adicional, en este proveedor si se crea una applicación y se afilia con Bluemix este tardará 10 días activos, luego solo se detendrá  y puede volver a iniciarse sin costos adicionales, causó algunos problemas tratando de ingresar a la cuenta personal desde el cmd, lo cuál atrasó en la creación del proyecto,  pero fuera de esto, se cuenta con una excelente  experiencia, con tema de tutoriales, este fue el  mejor, un tutorial sumamente completo.
+
+Analizamos Goocle cloud Platfotm.
 
 # Conclusiones 
 
@@ -209,6 +218,8 @@ deseado.
 ➔ Leer la duración de su servicio, cuando se crea una aplicación y esta se aloja en un proveedor, por ejemplo Bluemix, este servicio tardará activo 10 días en la dirección que se le brinda, luego de esos días se detendrá, aunque puede volver a activarse, en algunos casos con costos adicionales.
 
 ➔ Por temas de seguridad es recomendable respaldar sus archivos, puede utilizar GitHub para no perder su códiigo, además cambiar sus contraseñas con frecuencia. 
+
+➔ Desactivar la suscripción si no la necesitará más, para evitar cargos adicionales. 
 
 # Referencias bibliográficas
 
