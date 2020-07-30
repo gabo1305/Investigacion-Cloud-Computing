@@ -17,6 +17,8 @@
 Con los recientes avances en programación y tecnología de información, se han mostrado nuevas aplicaciones para la Internet, en este caso la computación en la nube , en la cual los recursos informáticos son ofrecidos y consumidos como servicios a través de Internet sin que los usuarios tengan conocimiento de la infraestructura que hay detrás. Siguiendo esta idea, La computación en la nube resulta conveniente y rentable tanto para usuarios como para los proveedores, ya que el poder trabajar con esta nueva tecnología, permitiendo ahorros tanto en licencias como en administración de servicios y de equipos.
 
 El presente trabajo de investigación explorará metodologías de desarrollo en la nube, además se analizará por medio de la implementación de un programa en 3 servidores distinos y se harán las comparaciones sobre cuál herramienta es "mejor" para utilizar como un desarrollador con conocimientos básicos en el ámbito, se verán apartados como simplicidad,costos e información sobre el proveedor.
+![](https://www.tec.ac.cr/sites/default/files/media/branding/logo-tec.png)
+
 
 # Descripción del problema
 Existen muchas personas que están interesadas en la programación en la nube, pero no saben como iniciar en este nuevo mundo de información,  que cuentan con conocimientos nulos sobre el tema, por tanto se hace indispensable un sitio en el cual se pueda encontrar la información básica necesaria para iniciar.
