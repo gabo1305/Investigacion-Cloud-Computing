@@ -24,8 +24,11 @@ El presente trabajo de investigación explorará metodologías de desarrollo en 
 Investigar sobre computación en la nube.
 # Objetivos específicos
 ➔Investigar sobre los conceptos fundamentales de computación en la nube
+
 ➔ Comparar los distintos modelos de computación en la nube
+
 ➔ Investigar sobre los principales competidores y su oferta para los desarrolladores
+
 ➔ Construir una aplicación de ejemplo en al menos tres proveedores de PaaS
 
 # Descripción del problema
