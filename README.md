@@ -178,12 +178,10 @@ FALTA
 # Referencias bibliográficas
 
 
-/LINKS PARA HACER EN REFERENCIAS
-
+[1] Desconocido. (2018,marzo 22).¿Quién inventó la computación en la nube?. [Online]. Disponible:
 https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expresi%C3%B3n%20%E2%80%9CCloud%20Computing%E2%80%9D%20(,la%20tecnolog%C3%ADa%20de%20Inteligencia%20Artificial.
 
-
-https://blog.infranetworking.com/computacion-en-la-nube-la-historia/
+[2]. Borges, E.(2017,junio 20). Computación en la nube: historia.[Online]. Disponible: https://blog.infranetworking.com/computacion-en-la-nube-la-historia/
 
 
 
