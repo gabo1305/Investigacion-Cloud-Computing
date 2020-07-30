@@ -235,7 +235,7 @@ https://skyone.solutions/es/conocer-la-computacion-en-la-nube/#:~:text=La%20expr
 https://simpleappinvestigacion.nn.r.appspot.com/)
 
 ## LINK GITHUB PAGES
-https://gabo1305.github.io/Investigacion-Cloud-Computing/
+[Github Pages](https://gabo1305.github.io/Investigacion-Cloud-Computing/)
 
 
 
