@@ -20,6 +20,13 @@ El presente trabajo de investigación explorará metodologías de desarrollo en 
 
 ![](https://github.com/gabo1305/Investigacion-Cloud-Computing/blob/master/Imagenes/Cloud_Computing.jpg)
 
+# Objetivo general
+Investigar sobre computación en la nube.
+# Objetivos específicos
+➔Investigar sobre los conceptos fundamentales de computación en la nube
+➔ Comparar los distintos modelos de computación en la nube
+➔ Investigar sobre los principales competidores y su oferta para los desarrolladores
+➔ Construir una aplicación de ejemplo en al menos tres proveedores de PaaS
 
 # Descripción del problema
 Existen muchas personas que están interesadas en la programación en la nube, pero no saben como iniciar en este nuevo mundo de información,  que cuentan con conocimientos nulos sobre el tema, por tanto se hace indispensable un sitio en el cual se pueda encontrar la información básica necesaria para iniciar.
